@@ -1,67 +1,100 @@
-# Hi there 👋 I'm Hodaya Fridland
+# Hi, I'm Hodaya Fridland 👋
 
-💻 Full Stack Developer  
-🚀 Passionate about building modern web applications  
-📍 Jerusalem, Israel  
+## Full Stack Developer
+
+Motivated and detail-oriented Full Stack Developer with hands-on experience building modern web applications using both client-side and server-side technologies.  
+Strong foundation in software development principles, problem-solving, object-oriented programming, and scalable application design.
+
+Passionate about learning new technologies, improving development workflows, and building clean, maintainable systems.
 
 ---
 
-## 🛠️ Tech Stack
+# 💼 Professional Skills
 
-### Frontend
+## Frontend Development
+- Angular
 - React
-- JavaScript
 - HTML5
 - CSS3
+- Bootstrap
+- PrimeNG
+- PrimeReact
+- JavaScript
 
-### Backend
+## Backend Development
 - Node.js
-- Express.js
+- C#.NET
+- Python
+- Java
 
-### Database
+## Databases
 - MongoDB
+- SQL Server
+- SQLite
 
-### Tools & Technologies
+## Technologies & Tools
+- REST APIs
 - Git & GitHub
-- REST API
-- AI Tools
-- VS Code
+- Postman
+- Design Patterns
+- Object-Oriented Programming (OOP)
+- AWS (Amazon Web Services)
+- AI Development Tools
 
 ---
 
-## 📌 About Me
+# 🎓 Academic Training
 
-I studied Full Stack Development and worked on several projects using modern technologies.  
-I enjoy learning new tools, solving problems, and creating clean user experiences.
+Comprehensive academic and practical training in software engineering and computer science fundamentals, including:
 
-Currently looking for opportunities in:
+- Algorithms
+- Data Structures
+- Operating Systems
+- Software Architecture
+- Communication Systems
+- Assembly Language
+- Artificial Intelligence Tools & Productivity Workflows
+
+---
+
+# 🚀 Projects
+
+## Projects Repository
+🔗 Add your projects repository link here:
+https://github.com/HodayaFridland/node-react-project
+https://github.com/HodayaFridland/api-project
+https://github.com/HodayaFridland/angular-project
+https://github.com/HodayaFridland/Python-Project
+
+You can also add specific featured projects below:
+
+### Full Stack Web Applications
+- Client-server architecture
+- REST API integrations
+- Authentication systems
+- Database management
+- Responsive UI development
+
+---
+
+# 📌 About Me
+
+- Strong self-learning abilities
+- Fast adaptation to new technologies
+- High motivation to grow in the software industry
+- Teamwork and problem-solving skills
+- Focused on writing clean and maintainable code
+
+Currently seeking opportunities in:
 - Full Stack Development
 - Frontend Development
 - Backend Development
 
 ---
 
-## 📂 Featured Projects
+# 📫 Contact
 
-### 🛒 E-Commerce Website
-Full stack shopping website built with:
-- React
-- Node.js
-- MongoDB
+📧 Email: f0548578402@gmail.com
+📍 Jerusalem, Israel
 
-Features:
-- User authentication
-- Product management
-- Shopping cart
-- Responsive design
 
----
-
-## 📫 Contact Me
-
-📧 Email: f0548578402@gmail.com 
-📱 Phone: 054-857-8402  
-
----
-
-⭐ Thanks for visiting my profile!
