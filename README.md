@@ -59,7 +59,7 @@ Features:
 
 ## 📫 Contact Me
 
-📧 Email: f0548578402@GMAIL.COM  
+📧 Email: f0548578402@gmail.com 
 📱 Phone: 054-857-8402  
 
 ---
