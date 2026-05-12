@@ -60,11 +60,10 @@ Comprehensive academic and practical training in software engineering and comput
 # 🚀 Projects
 
 ## Projects Repository
-🔗 Add your projects repository link here:
-https://github.com/HodayaFridland/node-react-project
-https://github.com/HodayaFridland/api-project
-https://github.com/HodayaFridland/angular-project
-https://github.com/HodayaFridland/Python-Project
+🔗 https://github.com/HodayaFridland/node-react-project
+🔗 https://github.com/HodayaFridland/api-project
+🔗 https://github.com/HodayaFridland/angular-project
+🔗 https://github.com/HodayaFridland/Python-Project
 
 You can also add specific featured projects below:
 
