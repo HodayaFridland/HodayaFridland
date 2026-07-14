@@ -42,5 +42,3 @@ Retrieval-Augmented Generation system that answers questions about the markdown 
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HodayaFridland&show_icons=true&theme=default&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HodayaFridland&layout=compact)
