@@ -1,99 +1,46 @@
 # Hi, I'm Hodaya Fridland 👋
 
-## Full Stack Developer
+**Full Stack Developer** · .NET · Angular · React · AI/LLM Integration
 
-Motivated and detail-oriented Full Stack Developer with hands-on experience building modern web applications using both client-side and server-side technologies.  
-Strong foundation in software development principles, problem-solving, object-oriented programming, and scalable application design.
+📱 054-857-8402 · ✉️ [F0548578402@gmail.com](mailto:F0548578402@gmail.com) · 📍 Jerusalem, Israel
 
-Passionate about learning new technologies, improving development workflows, and building clean, maintainable systems.
-
----
-
-# 💼 Professional Skills
-
-## Frontend Development
-- Angular
-- React
-- HTML5
-- CSS3
-- Bootstrap
-- PrimeNG
-- PrimeReact
-- JavaScript
-
-## Backend Development
-- Node.js
-- C#.NET
-- Python
-- Java
-
-## Databases
-- MongoDB
-- SQL Server
-- SQLite
-
-## Technologies & Tools
-- REST APIs
-- Git & GitHub
-- Postman
-- Design Patterns
-- Object-Oriented Programming (OOP)
-- AWS (Amazon Web Services)
-- AI Development Tools
+Currently developing on a real production team at the Ministry of Education, and exploring applied AI — RAG, LangChain, LlamaIndex, MCP — on the side.
 
 ---
 
-# 🎓 Academic Training
+## 🚀 Projects
 
-Comprehensive academic and practical training in software engineering and computer science fundamentals, including:
+Each repo below has its own README with setup instructions and details — that's where the real story is.
 
-- Algorithms
-- Data Structures
-- Operating Systems
-- Software Architecture
-- Communication Systems
-- Assembly Language
-- Artificial Intelligence Tools & Productivity Workflows
+### 🎟️ [Raffle & Donations Management System](https://github.com/HodayaFridland/raffle-donations-system)
+`Angular` · `C#` · `SQL Server`
+Full donor/participant/winner management with raffles, a personal user area, layered architecture, and dependency injection. Full-stack repo — client and API together.
 
----
+### 🛒 [Full E-Commerce Platform](https://github.com/HodayaFridland/node-react-project)
+`React` · `Node.js` · `MongoDB`
+Complete client-server system with JWT auth, order management, product catalog, and a responsive UI.
 
-# 🚀 Projects
+### 🌤️ [MCP Weather Agent — Israel & USA](https://github.com/HodayaFridland/MCP-Server-with-Playwright)
+`Python` · `MCP` · `Playwright` · `Gemini`
+An LLM agent exposing weather tools over the Model Context Protocol. One MCP server automates a real browser with Playwright to pull forecasts from an Israeli weather site (RAG-style); a second calls the official NWS API for US forecasts and alerts. The LLM decides on its own which tools to call and in what order, then answers in free-form Hebrew or English chat.
 
-## Projects Repository
-🔗 https://github.com/HodayaFridland/node-react-project
-🔗 https://github.com/HodayaFridland/api-project
-🔗 https://github.com/HodayaFridland/angular-project
-🔗 https://github.com/HodayaFridland/Python-Project
-
-You can also add specific featured projects below:
-
-### Full Stack Web Applications
-- Client-server architecture
-- REST API integrations
-- Authentication systems
-- Database management
-- Responsive UI development
+### 🤖 [RAG on AI Coding Tool Docs](https://github.com/HodayaFridland/RAG-with-LlamaIndex)
+`Python` · `LlamaIndex` · `ChromaDB` · `Cohere`
+Retrieval-Augmented Generation system that answers questions about the markdown docs AI coding tools (Claude Code, GitHub Copilot) leave behind while working on a project. Built as an event-driven Workflow: semantic search + reranking for open-ended questions, and an LLM router that switches to structured JSON lookups for list-style questions ("all decisions", "all warnings"). Bilingual (Hebrew/English), multilingual embeddings, hallucination-guarded prompting.
 
 ---
 
-# 📌 About Me
+## 🧠 Stack
 
-- Strong self-learning abilities
-- Fast adaptation to new technologies
-- High motivation to grow in the software industry
-- Teamwork and problem-solving skills
-- Focused on writing clean and maintainable code
+`C#` `.NET` `Java` `JavaScript` `Python` `Node.js` `REST API`
+`Angular` `React` `HTML` `CSS` `Bootstrap` `PrimeNG` `PrimeReact`
+`SQL Server` `MongoDB` `SQLite`
+`Docker` `RabbitMQ` `Microservices` `CI/CD`
+`Git` `Azure DevOps` `Postman` `AWS`
 
-Currently seeking opportunities in:
-- Full Stack Development
-- Frontend Development
-- Backend Development
+**AI / GenAI:** `Prompt Engineering` `RAG` `LlamaIndex` `LangChain` `MCP` `GitHub Copilot` `Claude`
 
 ---
 
-# 📫 Contact
-
-📧 Email: f0548578402@gmail.com
-📍 Jerusalem, Israel
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HodayaFridland&show_icons=true&theme=default&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HodayaFridland&layout=compact)
